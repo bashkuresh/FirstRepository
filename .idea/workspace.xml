@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3af6c0f8-2f82-41bf-8817-a26db5333bdf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task009.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task009a.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task009b.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSteps/Task009.class" afterPath="$PROJECT_DIR$/out/production/FirstSteps/Task009.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSteps/task010.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
