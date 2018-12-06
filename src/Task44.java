@@ -9,5 +9,11 @@ public class Task44 {
         int x = s.nextInt();
         System.out.println("inter Y");
         int y = s.nextInt();
+        //for (int x%2=0)
+        if( x!=10&&y!=10&&x%2==0){
+            System.out.println(x+y);
+        }else{
+            System.out.println(x*y);
+        }
     }
 }
