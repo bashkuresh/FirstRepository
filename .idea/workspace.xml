@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3af6c0f8-2f82-41bf-8817-a26db5333bdf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TAsk109a.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task100.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task106.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task107.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task107salavat.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task108.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task109.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task110.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task110A.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task111.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task45.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task46.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task47.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task48.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task58.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task59.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task60.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task61.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task64.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task65.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task69.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task75.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task76.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task77.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task78.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task79.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task80.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task81.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task82.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task83.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task84.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task86.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task87.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task88.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task89.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task90.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task98.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Task99.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Task44.java" afterPath="$PROJECT_DIR$/src/Task44.java" />
+      <change beforePath="$PROJECT_DIR$/src/Task111.java" afterPath="$PROJECT_DIR$/src/Task111.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -116,8 +77,8 @@
       <file leaf-file-name="Task111.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Task111.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="391">
+              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -613,12 +574,12 @@
       <workItem from="1544124180238" duration="920000" />
       <workItem from="1544126292235" duration="943000" />
       <workItem from="1544128807989" duration="1777000" />
-      <workItem from="1544130619586" duration="1064000" />
+      <workItem from="1544130619586" duration="1374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359677000" />
+    <option name="totallyTimeSpent" value="359987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1044,8 +1005,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task111.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="391">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding />
         </state>
       </provider>
