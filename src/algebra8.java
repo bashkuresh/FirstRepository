@@ -6,7 +6,7 @@ public class algebra8 {
         int sum = 0;
         int sum1 =0;
         int a=2;
-        int b=3;
+        int b=33333;
         sum = (a+4*b)*(a-3*b)+a*a;
         System.out.println(sum);
 
