@@ -5,7 +5,7 @@ public class ArrayTask62WithHashMap {
     public static void main(String[] args) {
         int[] originArray = new int[]{4,5,7,2,2,5,3,1,1};
         HashMap<Integer, Integer> hashMap = new HashMap<>();
-        for (int i = 0; i< originArray.length; i++) {
+        for (int i = 0; i<=originArray.length; i++) {
             hashMap.put(i , 0);
         }
 
