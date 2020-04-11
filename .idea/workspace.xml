@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3af6c0f8-2f82-41bf-8817-a26db5333bdf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayTask68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayTask69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayTask70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayTask77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayTask78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayTask79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayTask83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuessingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GuessingGame2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IdeanFirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bot/simpleBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simpleBot2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstSteps/ArrayTask62WithHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstSteps/ArrayTask62WithHashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayTask62WithHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayTask62WithHashMap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,15 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayTask2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayTask3.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,11 +50,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/bot/simpleBot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="450">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleBot2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="20" selection-start-line="6" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -132,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ArrayTask11.java" />
         <option value="$PROJECT_DIR$/src/Random.java" />
         <option value="$PROJECT_DIR$/src/ArrayTask14.java" />
         <option value="$PROJECT_DIR$/src/ArrayTas1.java" />
@@ -183,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/IdeanFirstClass.java" />
         <option value="$PROJECT_DIR$/src/simpleBot.java" />
         <option value="$PROJECT_DIR$/src/bot/simpleBot.java" />
+        <option value="$PROJECT_DIR$/src/simpleBot2.java" />
       </list>
     </option>
   </component>
@@ -222,7 +209,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586537118393" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586562986255" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -241,14 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.simpleBot">
-    <configuration name="GessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GessingGame" />
-      <module name="FirstSteps" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.simpleBot2">
     <configuration name="GuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GuessingGame" />
       <module name="FirstSteps" />
@@ -283,20 +263,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="simpleBot2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simpleBot2" />
+      <module name="FirstSteps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.GessingGame" />
       <item itemvalue="Application.GuessingGame2" />
       <item itemvalue="Application.GuessingGame" />
       <item itemvalue="Application.IdeanFirstClass" />
       <item itemvalue="Application.simpleBot" />
+      <item itemvalue="Application.simpleBot2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.simpleBot2" />
         <item itemvalue="Application.simpleBot" />
         <item itemvalue="Application.IdeanFirstClass" />
         <item itemvalue="Application.GuessingGame" />
         <item itemvalue="Application.GuessingGame2" />
-        <item itemvalue="Application.GessingGame" />
       </list>
     </recent_temporary>
   </component>
@@ -591,12 +578,12 @@
       <workItem from="1584578163087" duration="375000" />
       <workItem from="1584664446968" duration="152000" />
       <workItem from="1584827511176" duration="2895000" />
-      <workItem from="1586536235672" duration="845000" />
+      <workItem from="1586536235672" duration="3938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="551044000" />
+    <option name="totallyTimeSpent" value="554137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -619,7 +606,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.3223754" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.19879518" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -689,13 +676,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Task83.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TAAASK61.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1059,8 +1039,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/bot/simpleBot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="450">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleBot2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-end-line="7" />
         </state>
       </provider>
     </entry>
